@@ -1,0 +1,14 @@
+name: dart_console_customer_app
+description: A Dart console application to manage customers
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"  # Specify the correct Dart SDK version range
+
+dependencies:
+  http: ^1.2.2  # Correctly specify the http package version
+
+
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
